@@ -1,3 +1,4 @@
+// Calling util logger for loggin purpose.
 package myutil;
 import static myutil.Ex_4_log4j_Util.mylogs;
 
