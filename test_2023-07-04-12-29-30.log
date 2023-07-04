@@ -1,0 +1,5 @@
+2023-07-04 12:29:30,852 [main] DEBUG mylogs - This is a debug message.
+2023-07-04 12:29:30,852 [main] WARN  mylogs - This is warning
+2023-07-04 12:29:30,852 [main] ERROR mylogs - you are gone
+2023-07-04 12:29:30,852 [main] INFO  mylogs - This is for your information.
+2023-07-04 12:29:30,852 [main] INFO  mylogs - Print from another class.

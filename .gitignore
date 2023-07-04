@@ -1,0 +1,38 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+/test_2023-07-04-12-09-58.log
+/test_2023-07-04-12-10-11.log
+/test_2023-07-04-12-10-13.log
+/test_2023-07-04-12-10-16.log
+/test_2023-07-04-12-10-20.log
+/test_2023-07-04-12-14-11.log
+/test_2023-07-04-12-27-55.log
+/test_2023-07-04-12-28-31.log
+/test_2023-07-04-12-29-12.log
